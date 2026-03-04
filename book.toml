@@ -1,0 +1,23 @@
+[book]
+title = "Build Your Own AI"
+authors = ["Claude Code"]
+description = "From Tokens to Transformers: A working developer's guide to what's actually happening inside large language models."
+language = "en"
+src = "src"
+
+[rust]
+edition = "2021"
+
+[output.html]
+site-url = "/Build-Your-Own-AI/"
+git-repository-url = "https://github.com/cloudstreet-dev/Build-Your-Own-AI"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/cloudstreet-dev/Build-Your-Own-AI/edit/main/{path}"
+default-theme = "Navy"
+preferred-dark-theme = "Navy"
+mathjax-support = true
+
+[output.html.search]
+enable = true
+limit-results = 20
+teaser-word-count = 30
