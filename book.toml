@@ -11,7 +11,6 @@ edition = "2021"
 [output.html]
 site-url = "/Build-Your-Own-AI/"
 git-repository-url = "https://github.com/cloudstreet-dev/Build-Your-Own-AI"
-git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/cloudstreet-dev/Build-Your-Own-AI/edit/main/{path}"
 default-theme = "Navy"
 preferred-dark-theme = "Navy"
